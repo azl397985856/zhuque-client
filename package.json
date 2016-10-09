@@ -1,0 +1,25 @@
+{
+  "name": "zhuque-client",
+  "version": "1.0.0",
+  "description": "client of zhuque - a log collecting and analysing platform.",
+  "main": "zhuque-client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel zhuque-client.js -d lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azl397985856/zhuque-client.git"
+  },
+  "keywords": [
+    "error",
+    "performance",
+    "log"
+  ],
+  "author": "zhipenglu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/azl397985856/zhuque-client/issues"
+  },
+  "homepage": "https://github.com/azl397985856/zhuque-client#readme"
+}
