@@ -1,9 +1,8 @@
 /**
- * logerr
+ * zhuque-client
  *
  * @category   logerr
- * @author     Vaibhav Mehta <vaibhav@decodingweb.com>
- * @copyright  Copyright (c) 2016 Vaibhav Mehta <https://github.com/i-break-codes>
+ * @author     zhipenglu <695694307@qq.com
  * @license    http://www.opensource.org/licenses/mit-license.html  MIT License
  * @version    1.2 Stable
  */
