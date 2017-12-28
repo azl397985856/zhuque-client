@@ -50,3 +50,9 @@ perfLog.init({
 We welcome all contributions, please submit any ideas as [pull requests](https://github.com/azl397985856/zhuque/pulls) or as a [GitHub issue](https://github.com/azl397985856/zhuque/issues).
 ## Licence
 MIT
+
+## TODO
+1. 采样率
+2. 监控所有报错。 包括unhandledPromise 和 异步错误。
+
+异步可以使用事件捕获阶段监控，unhandledPromise可以监听对应事件
